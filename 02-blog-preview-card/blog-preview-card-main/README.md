@@ -36,7 +36,7 @@ Mobile view.
 ### Links
 
 - Solution URL: [on monukd github]()
-- Live Site URL: [live project on netlify]()
+- Live Site URL: [https://02-blog-preview-card.netlify.app/](https://02-blog-preview-card.netlify.app/)
 
 ## My process
 
